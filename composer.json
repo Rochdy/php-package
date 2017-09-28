@@ -1,0 +1,12 @@
+{
+    "name": "rochdy/sayhi",
+    "description": "say hi",
+    "authors": [
+        {
+            "name": "rochdy",
+            "email": "le.roshdy@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
